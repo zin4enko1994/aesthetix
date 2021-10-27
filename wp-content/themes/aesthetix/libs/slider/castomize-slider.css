@@ -1,0 +1,60 @@
+.slider-wrapper .slider {
+  width: 1170px;
+  margin: 0 auto;
+}
+.slider-wrapper .right,
+.slider-wrapper .left {
+  width: 44px;
+  height: 44px;
+  display: block;
+  top: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  cursor: pointer;
+  transform: scale(1);
+}
+.slider-wrapper .right:hover,
+.slider-wrapper .left:hover {
+  transform: scale(1.1);
+}
+.slider-wrapper .right {
+  right: 0;
+  background-image: url(../../img/icons/slider-arrow.png);
+}
+.slider-wrapper .left {
+  left: 0;
+  background-image: url(../../img/icons/slider-arrow2.png);
+}
+.slider-wrapper .slick-dots {
+  display: flex;
+  justify-content: center;
+  bottom: -40px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.slider-wrapper .slick-dots li {
+  width: auto !important;
+  display: flex;
+  align-items: center;
+}
+.slider-wrapper .slick-dots li.slick-active button {
+  opacity: 1;
+  background: none;
+  width: 32px;
+  height: 32px;
+  background-image: url(../../img/icons/slider-dots.png) !important;
+}
+.slider-wrapper .slick-dots button {
+  display: block;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  opacity: 0.4;
+  border: none;
+  border-radius: 50%;
+  background: #C4C4C4;
+  text-indent: -9999px;
+}
+
+/*# sourceMappingURL=castomize-slider.css.map */

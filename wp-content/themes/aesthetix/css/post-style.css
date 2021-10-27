@@ -1,0 +1,1959 @@
+.post-template-tp-facial-leg-veins .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-facial-leg-veins .book-form {
+  flex-direction: row-reverse;
+}
+.post-template-tp-facial-leg-veins .block-info {
+  min-height: 700px;
+  display: flex;
+  padding: 115px 80px;
+  background-repeat: no-repeat;
+  justify-content: flex-end;
+  position: relative;
+  background-size: contain;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-facial-leg-veins .block-info {
+    background-size: cover;
+    padding: 40px 80px;
+  }
+  .post-template-tp-facial-leg-veins .block-info:before {
+    content: "";
+    width: 50%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .block-info:before {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-facial-leg-veins .block-info {
+    padding: 40px 35px;
+  }
+}
+.post-template-tp-facial-leg-veins .block-info .text {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  z-index: 2;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .block-info .text {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-facial-leg-veins .block-info .text {
+    flex-direction: column;
+  }
+}
+.post-template-tp-facial-leg-veins .block-info .text .item {
+  width: 50%;
+  padding: 10px;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-facial-leg-veins .block-info .text .item {
+    width: 100%;
+  }
+}
+.post-template-tp-facial-leg-veins .block-info .text .item p {
+  max-width: 269px;
+  font-family: "Lato-Regular";
+  font-size: 16px;
+  line-height: 26px;
+  color: #575656;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-facial-leg-veins .block-info .text .item p {
+    color: #fff;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-facial-leg-veins .block-info .text .item p {
+    max-width: 100%;
+  }
+}
+.post-template-tp-facial-leg-veins .explained {
+  padding: 90px 0;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .explained {
+    padding: 0;
+  }
+}
+.post-template-tp-facial-leg-veins .explained .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper {
+    flex-direction: column;
+  }
+}
+.post-template-tp-facial-leg-veins .explained .wrapper .text {
+  width: 567px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper .text {
+    width: 100%;
+  }
+}
+.post-template-tp-facial-leg-veins .explained .wrapper .text .description {
+  padding: 75px 65px 40px;
+  background: #EAEAEA;
+}
+.post-template-tp-facial-leg-veins .explained .wrapper .text h3 {
+  font-family: "Plantagenet-Cherokee";
+  background: #C30079;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding: 40px 0;
+  transform: translate(-150px, 65px);
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper .text h3 {
+    transform: translate(0);
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper .text h3 {
+    margin: 0;
+  }
+}
+.post-template-tp-facial-leg-veins .explained .wrapper .img {
+  width: 625px;
+  height: 400px;
+  transform: translateY(20px);
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper .img {
+    transform: translateY(0);
+    margin: 0 auto;
+    width: 100%;
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-facial-leg-veins .explained .wrapper .img {
+    background-position: 100%;
+  }
+}
+.post-template-tp-facial-leg-veins .pricing .pricing-wrapper {
+  margin-bottom: 30px;
+}
+.post-template-tp-facial-leg-veins .pricing .pricing-wrapper ul li {
+  justify-content: space-between;
+}
+.post-template-tp-facial-leg-veins .pricing .pricing-wrapper ul li div {
+  width: calc( 100% / 2 );
+}
+
+.post-template-tp-skin-pigmentation-treatment .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-skin-pigmentation-treatment .book-form {
+  flex-direction: row-reverse;
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper {
+  background: #EAEAEA;
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item {
+  min-height: 650px;
+  display: flex;
+  padding: 115px 80px;
+  background-repeat: no-repeat;
+  background-position: 100%;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item {
+    background-size: cover;
+  }
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:before {
+    width: 50%;
+    position: absolute;
+    height: 100%;
+    content: "";
+    background: rgba(0, 0, 0, 0.3);
+    left: 0;
+    top: 0;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 1199px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:before {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 991px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:before {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 767px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:before {
+    background: rgba(0, 0, 0, 0.6);
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item {
+    padding: 50px 35px;
+  }
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text {
+  width: 40%;
+  z-index: 2;
+  position: relative;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text {
+    width: 65%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text {
+    width: 100%;
+  }
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text h2 {
+  font-size: 40px;
+  line-height: 53px;
+  font-family: "Plantagenet-Cherokee";
+  text-transform: uppercase;
+  color: #C30079;
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text p {
+  margin-top: 20px;
+  max-width: 565px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #575656;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item .text p {
+    color: #fff;
+  }
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item:nth-child(even) {
+  flex-direction: row-reverse;
+  background-position: 0;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:nth-child(even):before {
+    right: 0;
+    left: auto;
+  }
+}
+.post-template-tp-skin-pigmentation-treatment .block-wrapper .item:nth-child(even) .text {
+  padding-left: 100px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-skin-pigmentation-treatment .block-wrapper .item:nth-child(even) .text {
+    padding-left: 0;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper {
+    padding: 60px;
+  }
+  .post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper h2 {
+    font-size: 42px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper ul {
+    width: 100%;
+  }
+}
+.post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper ul li {
+  justify-content: space-between;
+}
+.post-template-tp-skin-pigmentation-treatment .pricing .pricing-wrapper ul li div {
+  width: calc( 100% / 2 );
+}
+
+.post-template-tp-threadlifts .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-threadlifts .book-form {
+  flex-direction: row-reverse;
+}
+.post-template-tp-threadlifts .block-wrapper {
+  background: #EAEAEA;
+}
+.post-template-tp-threadlifts .block-wrapper .item {
+  min-height: 650px;
+  display: flex;
+  padding: 115px 80px;
+  background-repeat: no-repeat;
+  background-position: 100%;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-threadlifts .block-wrapper .item {
+    background-size: cover;
+  }
+  .post-template-tp-threadlifts .block-wrapper .item:before {
+    width: 50%;
+    position: absolute;
+    height: 100%;
+    content: "";
+    background: rgba(0, 0, 0, 0.3);
+    left: 0;
+    top: 0;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 1199px) {
+  .post-template-tp-threadlifts .block-wrapper .item:before {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 991px) {
+  .post-template-tp-threadlifts .block-wrapper .item:before {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1500px) and (max-width: 767px) {
+  .post-template-tp-threadlifts .block-wrapper .item:before {
+    background: rgba(0, 0, 0, 0.6);
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-threadlifts .block-wrapper .item {
+    padding: 50px 35px;
+  }
+}
+.post-template-tp-threadlifts .block-wrapper .item .text {
+  width: 40%;
+  z-index: 2;
+  position: relative;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-threadlifts .block-wrapper .item .text {
+    width: 65%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-threadlifts .block-wrapper .item .text {
+    width: 100%;
+  }
+}
+.post-template-tp-threadlifts .block-wrapper .item .text h2 {
+  font-size: 40px;
+  line-height: 53px;
+  font-family: "Plantagenet-Cherokee";
+  text-transform: uppercase;
+  color: #C30079;
+}
+.post-template-tp-threadlifts .block-wrapper .item .text p {
+  margin-top: 20px;
+  max-width: 565px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #575656;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-threadlifts .block-wrapper .item .text p {
+    color: #fff;
+  }
+}
+.post-template-tp-threadlifts .block-wrapper .item:nth-child(even) {
+  flex-direction: row-reverse;
+  background-position: 0;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-threadlifts .block-wrapper .item:nth-child(even):before {
+    right: 0;
+    left: auto;
+  }
+}
+.post-template-tp-threadlifts .block-wrapper .item:nth-child(even) .text {
+  padding-left: 100px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-threadlifts .block-wrapper .item:nth-child(even) .text {
+    padding-left: 0;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-threadlifts .pricing .pricing-wrapper {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-threadlifts .pricing .pricing-wrapper {
+    padding: 60px;
+  }
+  .post-template-tp-threadlifts .pricing .pricing-wrapper h2 {
+    font-size: 42px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-threadlifts .pricing .pricing-wrapper ul {
+    width: 100%;
+  }
+}
+.post-template-tp-threadlifts .pricing .pricing-wrapper ul li {
+  justify-content: space-between;
+}
+.post-template-tp-threadlifts .pricing .pricing-wrapper ul li div {
+  width: calc( 100% / 2 );
+}
+
+.post-template-tp-meta-therapy .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-meta-therapy .book-form .image {
+  background-image: url(../img/background/pricing-form9.png);
+}
+.post-template-tp-meta-therapy .therapy {
+  background: #EAEAEA;
+}
+.post-template-tp-meta-therapy .therapy .alternative {
+  min-height: 649px;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  display: flex;
+}
+.post-template-tp-meta-therapy .therapy .alternative .info {
+  background: #fff;
+  width: 627px;
+  padding: 60px 30px;
+  margin-left: 15%;
+  margin-bottom: 0;
+  margin-top: auto;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-meta-therapy .therapy .alternative .info {
+    width: 100%;
+    margin: 0;
+  }
+}
+.post-template-tp-meta-therapy .therapy .alternative .info h3 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+}
+.post-template-tp-meta-therapy .therapy .alternative .info h3.pink {
+  color: #C30079;
+}
+.post-template-tp-meta-therapy .therapy .alternative .info span {
+  font-family: "Lato-Bold";
+  font-size: 18px;
+  line-height: 26px;
+  color: #000;
+  margin: 15px 0;
+}
+.post-template-tp-meta-therapy .therapy .alternative .info p {
+  font-family: "Lato-Regular";
+  font-size: 16px;
+  line-height: 26px;
+  color: #575656;
+}
+.post-template-tp-meta-therapy .therapy .dermabrasion {
+  min-height: 649px;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+.post-template-tp-meta-therapy .therapy .dermabrasion .info {
+  max-width: 597px;
+  margin-left: 60%;
+  padding: 0 30px;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-meta-therapy .therapy .dermabrasion .info {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .therapy .dermabrasion .info {
+    margin-left: 5%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-meta-therapy .therapy .dermabrasion .info {
+    width: 100%;
+    margin: 0;
+  }
+}
+.post-template-tp-meta-therapy .therapy .dermabrasion .info h3 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+}
+.post-template-tp-meta-therapy .therapy .dermabrasion .info h3.pink {
+  background: #C30079;
+  margin: 0 -30px;
+  padding: 45px 30px;
+  color: #fff;
+}
+.post-template-tp-meta-therapy .watch {
+  display: flex;
+  justify-content: center;
+  padding: 110px 125px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .watch {
+    padding: 30px 80px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .watch {
+    padding: 30px 30px;
+  }
+}
+.post-template-tp-meta-therapy .watch .block {
+  display: flex;
+  width: 1341px;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-meta-therapy .watch .block {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .watch .block {
+    flex-direction: column;
+  }
+}
+.post-template-tp-meta-therapy .watch .block .info {
+  width: 480px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .watch .block .info {
+    width: 100%;
+  }
+}
+.post-template-tp-meta-therapy .watch .block .info h3 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  color: #C30079;
+  padding: 35px 20px;
+  width: 275px;
+}
+.post-template-tp-meta-therapy .watch .block .info p {
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  width: 100%;
+  background: #036CB1;
+  padding: 30px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-meta-therapy .watch .block iframe {
+    width: 100%;
+  }
+}
+
+.post-template-tp-vampire-facials .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-vampire-facials .book-form .image {
+  background-image: url(../img/background/pricing-form8.png);
+}
+.post-template-tp-vampire-facials .facelift {
+  min-height: 900px;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-vampire-facials .facelift {
+    background-position: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .post-template-tp-vampire-facials .facelift {
+    min-height: auto;
+    padding-bottom: 20px;
+  }
+}
+.post-template-tp-vampire-facials .facelift .text-block {
+  width: 496px;
+  margin-left: 15%;
+}
+@media screen and (max-width: 768px) {
+  .post-template-tp-vampire-facials .facelift .text-block {
+    width: 100%;
+    padding: 20px;
+    margin: 0;
+  }
+}
+.post-template-tp-vampire-facials .facelift .text-block h3 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+  color: #C30079;
+}
+.post-template-tp-vampire-facials .facelift .text-block p {
+  font-family: "Lato-Regular";
+  font-size: 16px;
+  line-height: 26px;
+  color: #575656;
+}
+.post-template-tp-vampire-facials .facelift .text-block span {
+  font-family: "Lato-Bold";
+  font-size: 16px;
+  line-height: 26px;
+  color: #000;
+}
+.post-template-tp-vampire-facials .facelift .text-block ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.post-template-tp-vampire-facials .facelift .text-block ul li {
+  position: relative;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+.post-template-tp-vampire-facials .facelift .text-block ul li:before {
+  content: "";
+  width: 15px;
+  height: 1px;
+  background: #C30079;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%);
+  left: 0;
+}
+
+.post-template-tp-pdo-threads .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-pdo-threads .book-form {
+  flex-direction: row-reverse;
+}
+.post-template-tp-pdo-threads .book-form .image {
+  background-image: url(../img/background/pricing-form7.png);
+}
+.post-template-tp-pdo-threads .threading {
+  background: #EAEAEA;
+  padding: 66px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading {
+    padding: 0;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-wrap {
+  width: 1164px;
+  padding: 38px 70px;
+  background: #fff;
+  display: flex;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-pdo-threads .threading .threading-wrap {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading .threading-wrap {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-pdo-threads .threading .threading-wrap {
+    padding: 35px;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-wrap .item {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading .threading-wrap .item {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-wrap .item h2 {
+  font-family: "Plantagenet-Cherokee";
+  text-align: center;
+  font-size: 60px;
+  line-height: 79px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #575656;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-pdo-threads .threading .threading-wrap .item h2 {
+    font-size: 42px;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-wrap .item p {
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #575656;
+}
+.post-template-tp-pdo-threads .threading .threading-wrap .item img {
+  width: 100%;
+}
+.post-template-tp-pdo-threads .threading .threading-list {
+  width: 1164px;
+  display: flex;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-pdo-threads .threading .threading-list {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading .threading-list {
+    flex-direction: column;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-list h3 {
+  font-family: "Plantagenet-Cherokee";
+  background: #036CB1;
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  width: 567px;
+  height: 135px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 2;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-pdo-threads .threading .threading-list h3 {
+    padding: 50px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading .threading-list h3 {
+    width: 100%;
+    margin: 0;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-list ul {
+  background: #C30079;
+  list-style: none;
+  padding: 33px 100px 33px 150px;
+  transform: translateX(-125px);
+  position: relative;
+  z-index: 1;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-pdo-threads .threading .threading-list ul {
+    width: 100%;
+    margin: 0;
+    transform: translateX(0);
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-pdo-threads .threading .threading-list ul {
+    padding: 50px;
+  }
+}
+.post-template-tp-pdo-threads .threading .threading-list ul li {
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+.post-template-tp-pdo-threads .threading .threading-list ul li:first-child {
+  margin-top: 0;
+}
+
+.post-template-tp-botox .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-botox .book-form .image {
+  background-image: url(../img/background/pricing-form4.png);
+}
+.post-template-tp-botox .article-wrapper {
+  padding: 60px 0 45px;
+  display: flex;
+  justify-content: center;
+  background: #EAEAEA;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .article-wrapper {
+    background: #fff;
+  }
+}
+.post-template-tp-botox .article-wrapper .article-block {
+  width: 1140px;
+  display: flex;
+  background: #fff;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .article-wrapper .article-block {
+    flex-direction: column;
+  }
+}
+.post-template-tp-botox .article-wrapper .article-block .item {
+  width: 50%;
+  padding: 40px;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .article-wrapper .article-block .item {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .article-wrapper .article-block .item span {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  display: flex;
+}
+.post-template-tp-botox .article-wrapper .article-block .item span.headline-one {
+  color: #000000;
+}
+.post-template-tp-botox .article-wrapper .article-block .item span.headline-two {
+  color: #fff;
+  background: #036CB1;
+  width: calc( 100% + 130px );
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .article-wrapper .article-block .item span.headline-two {
+    width: calc( 100% + 80px );
+  }
+}
+.post-template-tp-botox .article-wrapper .article-block .item p {
+  font-family: "Lato-Regular";
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+.post-template-tp-botox .article-wrapper .article-block .item img {
+  width: 100%;
+}
+.post-template-tp-botox .article-wrapper .article-block .item:first-child {
+  border: 1px solid #EAEAEA;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .article-wrapper .article-block .item:first-child {
+    border: none;
+  }
+}
+.post-template-tp-botox .article-wrapper .article-block .item:first-child span {
+  margin-bottom: 50px;
+}
+.post-template-tp-botox .article-wrapper .article-block .item:first-child .headline-two {
+  float: right;
+  padding: 40px;
+  margin-right: -40px;
+  padding-left: 90px;
+}
+.post-template-tp-botox .article-wrapper .article-block .item:last-child .headline-one {
+  margin: 50px 0;
+}
+.post-template-tp-botox .article-wrapper .article-block .item:last-child .headline-two {
+  padding: 40px;
+  margin-top: -40px;
+  margin-left: -40px;
+  margin-bottom: 30px;
+}
+.post-template-tp-botox .article-wrapper .article-block .item:last-child img {
+  margin-top: 40px;
+}
+.post-template-tp-botox .video-block {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px 0 350px;
+  background: #EAEAEA;
+  position: relative;
+}
+.post-template-tp-botox .video-block:after {
+  content: "";
+  background-image: url("../img/background/video-block-bg.png");
+  position: absolute;
+  width: 100%;
+  height: 1243px;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block {
+    padding: 20px 0 0;
+  }
+}
+.post-template-tp-botox .video-block .wrap {
+  width: 740px;
+  display: flex;
+  flex-wrap: wrap;
+  z-index: 1;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .wrap {
+    flex-direction: column;
+    width: 100%;
+  }
+}
+.post-template-tp-botox .video-block .wrap .title {
+  width: 35%;
+  font-family: "Plantagenet-Cherokee";
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  color: #000000;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .wrap .title {
+    width: 100%;
+    text-align: center;
+  }
+}
+.post-template-tp-botox .video-block .wrap .description {
+  font-family: "Lato-Regular";
+  width: 65%;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .wrap .description {
+    width: 100%;
+    padding: 20px;
+  }
+}
+.post-template-tp-botox .video-block .wrap img {
+  width: 100%;
+}
+.post-template-tp-botox .video-block .tabl {
+  margin-top: 55px;
+  width: 1180px;
+  display: flex;
+  background: #000;
+  position: relative;
+  min-height: 515px;
+  z-index: 1;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-botox .video-block .tabl {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl {
+    flex-direction: column;
+  }
+}
+.post-template-tp-botox .video-block .tabl .pricing {
+  width: 45%;
+  padding: 30px 55px;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .pricing {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .video-block .tabl .pricing h4 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.post-template-tp-botox .video-block .tabl .pricing span {
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  display: block;
+  margin: 25px 0;
+}
+.post-template-tp-botox .video-block .tabl .pricing ul {
+  padding: 0;
+  list-style: none;
+}
+.post-template-tp-botox .video-block .tabl .pricing ul li {
+  padding: 30px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  display: flex;
+  flex-wrap: wrap;
+}
+.post-template-tp-botox .video-block .tabl .pricing ul li .name,
+.post-template-tp-botox .video-block .tabl .pricing ul li .one,
+.post-template-tp-botox .video-block .tabl .pricing ul li .two,
+.post-template-tp-botox .video-block .tabl .pricing ul li .three {
+  width: 25%;
+  font-family: "Lato-Regular";
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.post-template-tp-botox .video-block .tabl .pricing ul li .name {
+  color: #C30079;
+}
+.post-template-tp-botox .video-block .tabl .pricing ul li .one,
+.post-template-tp-botox .video-block .tabl .pricing ul li .two,
+.post-template-tp-botox .video-block .tabl .pricing ul li .three {
+  text-align: center;
+}
+.post-template-tp-botox .video-block .tabl .after {
+  width: 55%;
+  background: #EAEAEA;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .after {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .video-block .tabl .after h4 {
+  padding: 30px 40px;
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  font-family: "Plantagenet-Cherokee";
+  color: #FFFFFF;
+  background: #036CB1;
+  margin-left: 1px;
+}
+.post-template-tp-botox .video-block .tabl .after p {
+  max-width: 565px;
+  padding: 30px 40px;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: "Lato-Regular";
+  color: #000000;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .after p {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .video-block .tabl .info {
+  position: absolute;
+  display: flex;
+  top: 80%;
+  left: 30%;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-botox .video-block .tabl .info {
+    left: 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .info {
+    position: relative;
+    flex-direction: column;
+  }
+}
+.post-template-tp-botox .video-block .tabl .info h4 {
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  font-family: "Plantagenet-Cherokee";
+  color: #000000;
+  background: #fff;
+  padding: 45px 60px;
+  height: 160px;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .info h4 {
+    margin: 0;
+  }
+}
+.post-template-tp-botox .video-block .tabl .info span {
+  padding: 75px 60px;
+  background: #C30079;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .video-block .tabl .info span {
+    padding: 35px 60px;
+  }
+}
+.post-template-tp-botox .video-block .tabl .info span p {
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: uppercase;
+  font-family: "Lato-Bold";
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+.post-template-tp-botox .related-services {
+  padding: 100px 0 75px;
+}
+.post-template-tp-botox .related-services h2 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 40px;
+  line-height: 53px;
+  text-transform: uppercase;
+  color: #222222;
+  position: relative;
+  text-align: center;
+  z-index: 1;
+}
+.post-template-tp-botox .related-services h2 span {
+  position: absolute;
+  font-size: 140px;
+  line-height: 185px;
+  color: #EEEEEE;
+  top: -65px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -1;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-botox .related-services h2 span {
+    font-size: 60px;
+    margin-top: -60px;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper {
+  padding: 70px 0;
+  width: 1474px;
+  margin: 0 auto;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-botox .related-services .slider-wrapper {
+    display: none;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider {
+  width: 1170px;
+  margin: 0 auto;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper .slider {
+    width: 80%;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide {
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper .slider .slide {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item {
+  width: 50%;
+  padding: 30px 15px 15px;
+  position: relative;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap {
+  width: 100%;
+  min-height: 264px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+  position: relative;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap h5,
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap p {
+  padding-left: 200px;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap h5 {
+  font-family: "Plantagenet-Cherokee";
+  padding-top: 30px;
+  font-size: 24px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #222222;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap p {
+  font-size: 16px;
+  line-height: 19px;
+  font-family: "Lato-Regular";
+  color: #000000;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .line {
+  width: 63px;
+  height: 1px;
+  margin-left: 200px;
+  background: rgba(0, 0, 0, 0.2);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button {
+  position: absolute;
+  width: 100%;
+  height: 55px;
+  background: #222222;
+  border: 1px solid #EAEAEA;
+  bottom: 0;
+  display: flex;
+  padding: 0 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .info {
+  display: flex;
+  width: 65%;
+  height: 100%;
+  align-items: center;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .info span {
+  font-family: "Lato-Bold";
+  width: 50%;
+  font-size: 12px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #C30079;
+  position: relative;
+  padding-left: 25px;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .info span {
+    font-size: 12px;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .info span:first-child:before {
+  content: "";
+  background-image: url(../img/icons/icon-currency.png);
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .info span:last-child:before {
+  content: "";
+  background-image: url(../img/icons/icon-clock.png);
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .link {
+  display: flex;
+  justify-content: flex-end;
+  width: 35%;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .link a {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding-right: 40px;
+  position: relative;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .link a:after {
+  content: "";
+  background-image: url(../img/icons/arrow.png);
+  width: 28px;
+  height: 8px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .link a:hover {
+  color: #036CB1;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .wrap .button .link a:hover:after {
+  background-image: url(../img/icons/arrow-hover.png);
+}
+.post-template-tp-botox .related-services .slider-wrapper .slider .slide .item .img {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+}
+.post-template-tp-botox .related-services .slider-wrapper .right,
+.post-template-tp-botox .related-services .slider-wrapper .left {
+  width: 44px;
+  height: 44px;
+  display: block;
+  top: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  cursor: pointer;
+  transform: scale(1);
+}
+.post-template-tp-botox .related-services .slider-wrapper .right:hover,
+.post-template-tp-botox .related-services .slider-wrapper .left:hover {
+  transform: scale(1.1);
+}
+.post-template-tp-botox .related-services .slider-wrapper .right {
+  right: 0;
+  background-image: url(../img/icons/slider-arrow.png);
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper .right {
+    right: 5%;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .left {
+  left: 0;
+  background-image: url(../img/icons/slider-arrow2.png);
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-botox .related-services .slider-wrapper .left {
+    left: 5%;
+  }
+}
+.post-template-tp-botox .related-services .slider-wrapper .slick-dots {
+  display: flex;
+  justify-content: center;
+  bottom: -40px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slick-dots li {
+  width: auto !important;
+  display: flex;
+  align-items: center;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slick-dots li.slick-active button {
+  opacity: 1;
+  background: none;
+  width: 32px;
+  height: 32px;
+  background-image: url(../img/icons/slider-dots.png) !important;
+}
+.post-template-tp-botox .related-services .slider-wrapper .slick-dots button {
+  display: block;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  opacity: 0.4;
+  border: none;
+  border-radius: 50%;
+  background: #C4C4C4;
+  text-indent: -9999px;
+}
+.post-template-tp-botox .related-services .related-post {
+  padding-top: 50px;
+  width: 80%;
+  margin: 0 auto;
+  display: none;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-botox .related-services .related-post {
+    display: block;
+  }
+}
+.post-template-tp-botox .related-services .related-post .item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+}
+.post-template-tp-botox .related-services .related-post .item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+.post-template-tp-botox .related-services .related-post .item .img {
+  width: 200px;
+  height: 200px;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-botox .related-services .related-post .item .img {
+    display: none;
+  }
+}
+.post-template-tp-botox .related-services .related-post .item .text {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px 50px;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-botox .related-services .related-post .item .text {
+    width: 100%;
+  }
+}
+.post-template-tp-botox .related-services .related-post .item .text h3 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 24px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #222222;
+  text-align: center;
+}
+.post-template-tp-botox .related-services .related-post .item .text p {
+  font-family: "Lato-Regular";
+  font-size: 18px;
+  line-height: 19px;
+  color: #000000;
+  opacity: 0.7;
+}
+.post-template-tp-botox .related-services .related-post .item .text .link {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.post-template-tp-botox .related-services .related-post .item .text .link a {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #C30079;
+  padding-right: 40px;
+  position: relative;
+}
+.post-template-tp-botox .related-services .related-post .item .text .link a:after {
+  content: "";
+  background-image: url(../img/icons/arrow2.png);
+  width: 28px;
+  height: 8px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.post-template-tp-botox .related-services .related-post .item .text .link a:hover {
+  color: #036CB1;
+}
+.post-template-tp-botox .related-services .related-post .item .text .link a:hover:after {
+  background-image: url(../img/icons/arrow-hover.png);
+}
+
+.post-template-tp-fillers .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+.post-template-tp-fillers .book-form .image {
+  background-image: url(../img/background/pricing-form5.png);
+}
+.post-template-tp-fillers .treatment {
+  padding: 100px 0 150px;
+  background: #E5E5E5;
+  position: relative;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-fillers .treatment {
+    padding: 50px 0 0;
+  }
+}
+.post-template-tp-fillers .treatment:after {
+  content: "";
+  background-image: url(../img/background/treatment-background.png);
+  background-repeat: no-repeat;
+  width: 680px;
+  height: 1076px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment:after {
+    display: none;
+  }
+}
+.post-template-tp-fillers .treatment h2 {
+  font-size: 70px;
+  line-height: 92px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Plantagenet-Cherokee";
+  color: #C30079;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-fillers .treatment h2 {
+    font-size: 42px;
+  }
+}
+.post-template-tp-fillers .treatment .treatment-wrapper {
+  width: 1463px;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+  padding-bottom: 65px;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper {
+    width: 100%;
+  }
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item {
+  width: 25%;
+  position: relative;
+  z-index: 2;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item {
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item {
+    width: 50%;
+    margin-top: 0 !important;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item {
+    width: 100%;
+  }
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item:after {
+  content: "";
+  background: #036CB1;
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  top: 140px;
+  z-index: -1;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item:after {
+    width: 200%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item:after {
+    display: none;
+  }
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item:nth-child(2) {
+  margin-top: 140px;
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item:nth-child(3) {
+  margin-top: calc( 140px * 2 );
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item:nth-child(4) {
+  margin-top: calc( 140px * 3 );
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item:last-child:after {
+  display: none;
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item .img {
+  width: 200px;
+  height: 200px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item .img {
+    margin: 0 auto;
+  }
+}
+.post-template-tp-fillers .treatment .treatment-wrapper .item p {
+  padding-top: 20px;
+  max-width: 200px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment .treatment-wrapper .item p {
+    margin: 0 auto;
+  }
+}
+.post-template-tp-fillers .treatment .dermal {
+  width: 1014px;
+  background: #fff;
+  padding: 14px;
+  margin-right: 80px;
+  margin-left: auto;
+  position: relative;
+  z-index: 2;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-fillers .treatment .dermal {
+    width: 100%;
+  }
+}
+.post-template-tp-fillers .treatment .dermal .wrapper {
+  border: 1px dashed #C30079;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 100px 0;
+}
+.post-template-tp-fillers .treatment .dermal .wrapper h3 {
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+  font-family: "Plantagenet-Cherokee";
+  color: #C30079;
+  text-align: center;
+}
+.post-template-tp-fillers .treatment .dermal .wrapper .dermal-block {
+  margin-top: 20px;
+  display: flex;
+  width: 880px;
+}
+@media screen and (max-width: 991px) {
+  .post-template-tp-fillers .treatment .dermal .wrapper .dermal-block {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-fillers .treatment .dermal .wrapper .dermal-block {
+    flex-direction: column;
+  }
+}
+.post-template-tp-fillers .treatment .dermal .wrapper .dermal-block .item {
+  width: 50%;
+  padding: 20px;
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-fillers .treatment .dermal .wrapper .dermal-block .item {
+    width: 100%;
+  }
+}
+.post-template-tp-fillers .video-block {
+  padding: 100px 0;
+  background: rgba(86, 86, 87, 0.5);
+}
+.post-template-tp-fillers .video-block .container {
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-fillers .video-block .container {
+    flex-direction: column;
+  }
+}
+.post-template-tp-fillers .video-block .container .video {
+  width: 50%;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-fillers .video-block .container .video {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-fillers .video-block .container .video iframe {
+    width: 100%;
+  }
+}
+.post-template-tp-fillers .video-block .container .text {
+  width: 50%;
+  padding: 0 50px;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-fillers .video-block .container .text {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-fillers .video-block .container .text {
+    padding: 0 20px;
+  }
+}
+.post-template-tp-fillers .video-block .container .text h2 {
+  font-family: "Plantagenet-Cherokee";
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+  color: #C30079;
+}
+.post-template-tp-fillers .pricing ul li {
+  justify-content: space-between;
+}
+.post-template-tp-fillers .pricing ul li .price,
+.post-template-tp-fillers .pricing ul li .name {
+  width: 50%;
+  font-family: "Lato-Light" !important;
+  font-size: 16px !important;
+  line-height: 19px !important;
+  color: #222222 !important;
+}
+.post-template-tp-fillers .pricing ul li .price {
+  text-align: right !important;
+}
+
+.post-template-tp-microdermabrasion .main {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #EAEAEA;
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-microdermabrasion .main .template-title {
+    font-size: 46px;
+  }
+  .post-template-tp-microdermabrasion .main .template-title span {
+    font-size: 46px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-microdermabrasion .main .template-title {
+    font-size: 28px;
+  }
+  .post-template-tp-microdermabrasion .main .template-title span {
+    font-size: 28px;
+  }
+}
+.post-template-tp-microdermabrasion .book-form {
+  flex-direction: row-reverse;
+}
+.post-template-tp-microdermabrasion .book-form .image {
+  background-image: url(../img/background/pricing-form6.png);
+}
+.post-template-tp-microdermabrasion .book-form .info {
+  background: #036CB1;
+}
+.post-template-tp-microdermabrasion .book-form .info form label {
+  background: #036CB1;
+}
+.post-template-tp-microdermabrasion .explanation {
+  background: #EAEAEA;
+}
+.post-template-tp-microdermabrasion .explanation .first-block {
+  width: 1393px;
+  height: 850px;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 130px;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .first-block {
+    width: 100%;
+    margin: 0;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .first-block .info {
+  background: #C30079;
+  width: 567px;
+  height: 226px;
+  box-shadow: 0px 25px 45px rgba(0, 0, 0, 0.2);
+  padding: 35px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #FFFFFF;
+  position: absolute;
+  right: 0;
+  transform: translateX(50%);
+  top: 135px;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .first-block .info {
+    transform: translateX(0);
+    top: 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-microdermabrasion .explanation .first-block .info {
+    width: 100%;
+    height: auto;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .first-block .title {
+  position: absolute;
+  width: 610.5px;
+  height: 162px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #036CB1;
+  font-size: 40px;
+  line-height: 53px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-family: "Plantagenet-Cherokee";
+  bottom: 0;
+  transform: translateY(50%);
+  left: 50%;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .first-block .title {
+    transform: translateX(0);
+    left: 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .post-template-tp-microdermabrasion .explanation .first-block .title {
+    width: 100%;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .second-block {
+  width: 1163px;
+  height: 580px;
+  background-size: cover;
+  position: relative;
+  margin-right: 80px;
+  margin-left: auto;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .second-block {
+    width: 100%;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .second-block .info {
+  padding: 75px 85px;
+  background: #fff;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  transform: translateX(-70%);
+  z-index: 2;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .second-block .info {
+    transform: translateX(0);
+  }
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-microdermabrasion .explanation .second-block .info {
+    background: rgba(255, 255, 255, 0.5);
+    top: 0;
+    height: 100%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-microdermabrasion .explanation .second-block .info {
+    padding: 15px 30px;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .second-block .info p {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #575656;
+  max-width: 415px;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-microdermabrasion .explanation .second-block .info p {
+    color: #000;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-microdermabrasion .explanation .second-block .info p {
+    font-size: 14px;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .third-block {
+  width: 1164px;
+  height: 560px;
+  background-size: cover;
+  position: relative;
+  margin-left: 80px;
+  padding: 75px 95px;
+  background: #fff;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .third-block {
+    width: 100%;
+    margin: 0;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .third-block .info {
+  padding: 75px 95px;
+  background: #fff;
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  top: -50px;
+  transform: translateX(80%);
+}
+@media screen and (max-width: 1500px) {
+  .post-template-tp-microdermabrasion .explanation .third-block .info {
+    top: auto;
+    bottom: 0;
+    transform: translateX(0);
+  }
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-microdermabrasion .explanation .third-block .info {
+    background: rgba(255, 255, 255, 0.5);
+    height: 100%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-microdermabrasion .explanation .third-block .info {
+    padding: 15px 30px;
+  }
+}
+.post-template-tp-microdermabrasion .explanation .third-block .info p {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Lato-Regular";
+  color: #575656;
+  max-width: 415px;
+}
+@media screen and (max-width: 1199px) {
+  .post-template-tp-microdermabrasion .explanation .third-block .info p {
+    color: #000;
+  }
+}
+@media screen and (max-width: 575px) {
+  .post-template-tp-microdermabrasion .explanation .third-block .info p {
+    font-size: 14px;
+  }
+}
+
+/*# sourceMappingURL=post-style.css.map */
